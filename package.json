@@ -36,7 +36,8 @@
         "ts-loader": "^9.3.x",
         "ts-node": "^10.8.x",
         "typescript": "^4.7.x",
-        "webpack": "^5.73.x"
+        "webpack": "^5.73.x",
+        "webpack-cli": "^5.0.0"
     },
     "dependencies": {
         "gl-matrix": "^3.4.3"
